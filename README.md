@@ -1,4 +1,4 @@
-# proj306-Rust-OS-for-framekernel-Architecture
+# proj306-Rust-OS-for-Framekernel-Architecture
 # 基于框内核架构的Rust OS实践与创新
 
 ## 项目描述
